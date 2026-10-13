@@ -1,0 +1,6 @@
+{
+  "name": "বরুড়া.টিভি (Barura TV) - অনলাইন নিউজ পোর্টাল",
+  "description": "বরুড়া ও দেশের বস্তুনিষ্ঠ সংবাদের বিশ্বস্ত ঠিকানা। সর্বশেষ বাংলাদেশ, রাজনীতি, আন্তর্জাতিক, অর্থনীতি, খেলাধুলা ও প্রযুক্তির সংবাদ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
